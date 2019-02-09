@@ -1,4 +1,4 @@
-<h2>Web_map<br></h>
+#Web_map
 
 Module generates .html file, that can create map with population and films' filming locations.
 <h2>Installation<br></h>
