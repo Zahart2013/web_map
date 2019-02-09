@@ -1,13 +1,14 @@
 # Web_map
 
 Module generates .html file, that can create map with population and films' filming locations.
-<h2>Installation<br></h>
+
+<h2>Installation</h2>
 
 You need to install everything from <b>requirements.txt</b> file via command
 ~~~~
 sudo pip install -r  requirements.txt
 ~~~~
-<h2>Usage<br></h>
+<h2>Usage<br></h2>
 
 Start the application<br>
 ~~~~
