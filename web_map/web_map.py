@@ -48,7 +48,6 @@ def film_by_year_layer(data, year):
             bar.update(i)
             i += 1
         except:
-            print("Error\n")
             bar.update(i)
             i += 1
             continue
