@@ -33,4 +33,4 @@ first tag `<!DOCTYPE HTML>` directly define that file type is html5<br>
 After this file contains code to generate the map itself.
 
 <h2> Conclusion<br></h2>
-We can use modules like <b>folium</b> to generate .html files for our web applications. It is simple and fast to use, so it can be effective instrument in development.
+We can use this map to analyze dependences of film locations and population. To conclude, we can not find any dependency of these two characteristics.
